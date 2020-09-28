@@ -1,5 +1,5 @@
-dir /D/w
+dir /AD
 dir /AS/N
-dir /S/w
+dir /S/B
 dir /O-G
 dir /O
